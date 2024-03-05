@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301736477449",
+    "project_id": "afon-project-32-20972",
+    "storage_bucket": "afon-project-32-20972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301736477449:android:00b7517f74d3ef6e4849d8",
+        "android_client_info": {
+          "package_name": "com.example.fp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBbJhBULsV3E2XVLo8dFOEWPVk6HQCX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
